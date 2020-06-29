@@ -6,3 +6,7 @@ end
 def toadstool
   puts status
 end
+
+def link
+  phrase1= 
+end
